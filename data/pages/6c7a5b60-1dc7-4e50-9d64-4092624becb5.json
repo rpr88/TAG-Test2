@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-11T17:30:07.329Z",
+  "created_by": "rpr88",
+  "title": "LAPR1973_03_22-tag test",
+  "slug": "lapr19730322-tag-test",
+  "updated_at": "2025-03-11T17:30:07.329Z",
+  "updated_by": "rpr88",
+  "parent": "55a455af-b5fc-44a0-82f6-746e71e46468",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "56f31d10-f299-4db3-bb1e-d8794ca23ba2"
+  }
+}
