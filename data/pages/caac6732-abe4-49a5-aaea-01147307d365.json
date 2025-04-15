@@ -32,25 +32,7 @@
       "children": [
         {
           "code": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "code": true,
           "text": "<h1>LAPR Digital Map</h1>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "code": true,
-          "text": ""
         }
       ]
     },
@@ -69,15 +51,6 @@
         {
           "code": true,
           "text": "</iframe>"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "code": true,
-          "text": ""
         }
       ]
     },
@@ -108,6 +81,6 @@
   "slug": "test-page",
   "created_at": "2025-04-15T04:20:06.914Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-15T04:20:06.914Z",
+  "updated_at": "2025-04-15T04:24:32.979Z",
   "updated_by": "rpr88"
 }
