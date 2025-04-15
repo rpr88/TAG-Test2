@@ -31,16 +31,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "<iframe src=\"https://www.arcgis.com/apps/mapviewer/index.html?webmap=9712a05cffd7420abe191f36f2e71b9f\" title=\"LAPR Digital Map\">",
-          "code": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "</iframe>",
+          "text": "<iframe src=\"https://www.arcgis.com/apps/mapviewer/index.html?webmap=9712a05cffd7420abe191f36f2e71b9f\" title=\"LAPR Digital Map\"></iframe>",
           "code": true
         }
       ]
@@ -62,6 +53,14 @@
           "code": true
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "test page ",
@@ -72,6 +71,6 @@
   "slug": "test-page",
   "created_at": "2025-04-15T04:20:06.914Z",
   "created_by": "rpr88",
-  "updated_at": "2025-04-15T04:28:07.979Z",
+  "updated_at": "2025-04-15T04:35:55.420Z",
   "updated_by": "rpr88"
 }
